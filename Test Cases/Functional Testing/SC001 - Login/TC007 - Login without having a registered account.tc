@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007 - Login without having a registered account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>080a4c91-2d35-4bd6-b409-32d2f5318423</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f3dc61f-483f-44db-a08c-3d7dedc4d3b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8eba28b9-0f97-4606-a38b-b3133b129132</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama75@gmail.com'</defaultValue>
+      <description></description>
+      <id>2f3dc61f-483f-44db-a08c-3d7dedc4d3b3</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Teguh12#'</defaultValue>
+      <description></description>
+      <id>8eba28b9-0f97-4606-a38b-b3133b129132</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
